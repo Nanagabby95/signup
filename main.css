@@ -1,0 +1,67 @@
+body{
+    background-color: #011B33 !important;
+    font-family: 'Montserrat', sans-serif;
+    color: white !important;
+}
+p{
+    font-family: 'Montserrat';
+}
+.btn-primary{
+    background-color: #3A95C9 !important;
+    padding: 5px 25px !important;
+    border-radius: 10px !important;
+}
+.gradient{
+    
+    background: linear-gradient(90.09deg, #0CE37B 0.07%, #1393EC 97.46%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    -text-fill-color: transparent;
+}
+.btn-primary2{
+    width: 100%;
+    background-color: #3A95C9 !important;
+    color: white;
+}
+
+/* OTP POPUP PAGE */
+.opt-button{
+    background-color:#3A95C9 !important;
+}
+.otp-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .otp-input {
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    margin: 0 5px;
+  }
+  .list-group{
+    background-color: #011B33!important;
+    border: none !important;
+  }
+  .modal-body { 
+    background-color: #011B33!important;
+    border: none !important;
+  }
+  .questionHeadings{
+    color: #1393EB !important;
+    font-size: 20px;
+  }
+  .vidlink{
+    color:#0CE37B;
+  }
+  .compiler-hero-wrapper{
+    padding-top: 6em !important;
+  }
+
+@media (min-width:900px) {
+    form{
+        width: 50% !important;
+    }
+}
