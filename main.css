@@ -59,6 +59,9 @@ p{
   .compiler-hero-wrapper{
     padding-top: 6em !important;
   }
+  .otp-container input{
+    background-color: white !important;
+  }
 
 @media (min-width:900px) {
     form{
